@@ -1,4 +1,13 @@
 discord.py[voice] ~= 0.12.0
+pytz
+memory_profiler
 youtube_dl
 pip
+imgurpython
+aiohttp
+websockets
+chardet
+PyNaCl
 cffi==1.6.0; sys_platform == 'win32'
+pycparser
+mcstatus
